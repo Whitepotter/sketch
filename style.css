@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+
+#yourscore{
+    float:right;
+    margin-right:20px;
+    background-color: darkturquoise;
+    color:black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#time{
+    float:left;
+    margin-left:20px;
+    background-color: darkturquoise;
+    color:black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+p{
+    background-color: darkturquoise;
+    color:black;
+    padding: 20px;
+    border-radius: 10px;
+    width:200px;
+}
+
+h1{
+    background-color: darkturquoise;
+    color:black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button{
+    float:right;
+}
+
+canvas{
+    border: 5px solid black;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
